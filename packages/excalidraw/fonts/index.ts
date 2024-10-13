@@ -18,20 +18,20 @@ import {
 import { ExcalidrawFont, type Font } from "./ExcalidrawFont";
 import { getContainerElement } from "../element/textElement";
 
-import Virgil from "./assets/Virgil-Regular.woff2";
-import Excalifont from "./assets/Excalifont-Regular.woff2";
-import Cascadia from "./assets/CascadiaCode-Regular.woff2";
-import ComicShanns from "./assets/ComicShanns-Regular.woff2";
-import LiberationSans from "./assets/LiberationSans-Regular.woff2";
+import Virgil from "./assets/JetBrainsMono-Regular.woff2";
+import Excalifont from "./assets/JetBrainsMono-Regular.woff2";
+import Cascadia from "./assets/JetBrainsMono-Regular.woff2";
+import ComicShanns from "./assets/JetBrainsMono-Regular.woff2";
+import LiberationSans from "./assets/JetBrainsMono-Regular.woff2";
 
-import LilitaLatin from "./assets/Lilita-Regular-i7dPIFZ9Zz-WBtRtedDbYEF8RXi4EwQ.woff2";
-import LilitaLatinExt from "./assets/Lilita-Regular-i7dPIFZ9Zz-WBtRtedDbYE98RXi4EwSsbg.woff2";
+import LilitaLatin from "./assets/JetBrainsMono-Regular.woff2";
+import LilitaLatinExt from "./assets/JetBrainsMono-Regular.woff2";
 
-import NunitoLatin from "./assets/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3j6zbXWjgeg.woff2";
-import NunitoLatinExt from "./assets/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTo3j6zbXWjgevT5.woff2";
-import NunitoCyrilic from "./assets/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTA3j6zbXWjgevT5.woff2";
-import NunitoCyrilicExt from "./assets/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTk3j6zbXWjgevT5.woff2";
-import NunitoVietnamese from "./assets/Nunito-Regular-XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTs3j6zbXWjgevT5.woff2";
+import NunitoLatin from "./assets/JetBrainsMono-Regular.woff2";
+import NunitoLatinExt from "./assets/JetBrainsMono-Regular.woff2";
+import NunitoCyrilic from "./assets/JetBrainsMono-Regular.woff2";
+import NunitoCyrilicExt from "./assets/JetBrainsMono-Regular.woff2";
+import NunitoVietnamese from "./assets/JetBrainsMono-Regular.woff2";
 
 export class Fonts {
   // it's ok to track fonts across multiple instances only once, so let's use
